@@ -1,0 +1,16 @@
+{
+
+	"ads": {
+		"Banner_ironSource": "DefaultBanner",
+		"Inter_ironSource": "DefaultInterstitial",
+		"reword_ironSource": "DefaultRewarded",
+
+		"ironSource_app_key": "1c1276505",
+
+		"GetApp_Url": "https://play.google.com/store/apps/details?id=com.twogisclue.salmiapps",
+		"urlrateus": "https://play.google.com/store/apps/details?id=com.twogisclue.salmiapps",
+		"Privicyurl": "https://salmiapps.blogspot.com/2023/10/privacy-policy.html"
+
+	}
+
+}
